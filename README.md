@@ -1,5 +1,6 @@
 # javaorm
-Java ORM using googles GSON.jar 
+
+Java ORM using googles GSON.jar & MySQL Connector!
 
 
 ```java
