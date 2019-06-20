@@ -1,6 +1,8 @@
 # javaorm
 Java ORM using googles GSON.jar 
-<code>
+
+
+```java
 
 /*
  * To change this license header, choose License Headers in Project Properties.
@@ -103,7 +105,4 @@ public class Model {
     }
 }
 
-
-
-
-</code>
+```
