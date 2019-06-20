@@ -21,7 +21,7 @@ import java.util.List;
 
 /**
  *
- * @author NE
+ * @author NjengaElijah
  */
 public class Model {
 
