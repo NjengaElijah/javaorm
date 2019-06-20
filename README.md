@@ -1,2 +1,2 @@
 # javaorm
-Java ORM 
+Java ORM using googles GSON.jar 
